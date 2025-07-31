@@ -1,4 +1,4 @@
-# 👋 About Me
+#  About Me
 
 💡 **Data-driven professional** with 3+ years of experience in business analytics, data visualization, and strategic insights. Proven track record in research analytics, market intelligence, and stakeholder engagement to drive decision-making.
 
