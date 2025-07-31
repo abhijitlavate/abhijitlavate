@@ -1,6 +1,6 @@
 # 👋 About Me
 
-💡 **Data-driven professional** with 5+ years of experience in business analytics, data visualization, and strategic insights. Proven track record in research analytics, market intelligence, and stakeholder engagement to drive decision-making.
+💡 **Data-driven professional** with 3+ years of experience in business analytics, data visualization, and strategic insights. Proven track record in research analytics, market intelligence, and stakeholder engagement to drive decision-making.
 
 💼 **Passionate Data Analyst** with hands-on experience in transforming raw data into actionable insights that fuel business success.
 
