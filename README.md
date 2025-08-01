@@ -38,7 +38,19 @@
 - 👨‍🏫 **Mentored  junior analysts** in Power BI and DAX, speeding up onboarding and ensuring knowledge transfer.  
 - 🧵 Shared **50+ Power BI tips and educational posts** on LinkedIn to build community knowledge and thought leadership.  
 - 📂 Published **27+ real-world Power BI projects** on GitHub, covering business analysis, data storytelling, and BI workflows.
+- 
+---
+- ## 🛢️ SQL Experience
 
+- Applied **Descriptive and Inferential Statistics** (*mean*, *variance*, *hypothesis testing*, *ANOVA*, *correlation*, *regression*) to uncover actionable business insights.  
+- Collaborated with **cross-functional teams** to define **25+ data requirements**, translating **business KPIs** into **SQL queries** tracked via **Jira Epics**.  
+- Improved **query performance** by **70%** through **indexing**, **partitioning**, and restructuring of **JOIN conditions** on high-volume **PostgreSQL** tables.  
+- Designed and optimized **complex SQL queries** using **Joins**, **Set Operations**, **Subqueries**, and **Window Functions**—achieving a **45% boost** in performance across **100M+ row databases**.  
+- Developed and maintained modular **SQL Views** and **Common Table Expressions (CTEs)** for simplified logic and maintainability.  
+- Built reusable **Stored Procedures** and **CRUD operations** to manage **application databases**, increasing **system reliability**.  
+- **Mentored  junior analysts** in **SQL best practices** and **query optimization techniques**.  
+- Published **27+ real-world SQL projects** on **GitHub**, covering **query design**, **indexing strategies**, and **enterprise-scale performance tuning**.
+- ---
 
 
 📫 **Let’s Connect**  
