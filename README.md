@@ -35,7 +35,7 @@
 - ⏱️ Configured **scheduled data refresh (scheduled increment)** via Power BI Service and gateway, ensuring up-to-date dashboards with **automated hourly/daily refreshes**.  
 - 📦 Integrated **15+ custom visuals from AppSource** (e.g., KPI Indicator, Bullet Chart, Synoptic Panel) to enrich storytelling and data clarity.  
 - 🛠️ Version-controlled all `.pbix`, DAX scripts, and documentation using **Git**, enforcing CI/CD best practices for analytics delivery.  
-- 👨‍🏫 **Mentored 20+ junior analysts** in Power BI and DAX, speeding up onboarding and ensuring knowledge transfer.  
+- 👨‍🏫 **Mentored  junior analysts** in Power BI and DAX, speeding up onboarding and ensuring knowledge transfer.  
 - 🧵 Shared **50+ Power BI tips and educational posts** on LinkedIn to build community knowledge and thought leadership.  
 - 📂 Published **27+ real-world Power BI projects** on GitHub, covering business analysis, data storytelling, and BI workflows.
 
