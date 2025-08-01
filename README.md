@@ -51,6 +51,14 @@
 - **Mentored  junior analysts** in **SQL best practices** and **query optimization techniques**.  
 - Published **27+ real-world SQL projects** on **GitHub**, covering **query design**, **indexing strategies**, and **enterprise-scale performance tuning**.
 - ---
+## 📊 Excel Experience
+
+- Proficient in **Advanced Excel**, including **VLOOKUP**, **INDEX-MATCH**, **IF statements**, **conditional formatting**, and **data validation**.
+- Utilized **pivot tables**, **charts**, and **data models** to summarize and present insights to non-technical stakeholders.
+- Cleaned, transformed, and analyzed structured data using **Excel Power Query** as part of end-to-end reporting pipelines.
+- Created **interactive Excel dashboards** to track KPIs and provide real-time business performance snapshots.
+- 
+.
 
 
 📫 **Let’s Connect**  
