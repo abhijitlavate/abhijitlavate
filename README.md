@@ -25,6 +25,22 @@
 
 ---
 
+## 🚀 Power BI Expertise & Contributions
+
+- 📊 **Designed and deployed over 27 interactive dashboards** using Power BI Desktop & Service, transforming raw data into executive-level business insights across marketing, logistics, and finance.  
+- 📑 Created **Paginated Reports using Power BI Report Builder**, enabling pixel-perfect print-ready outputs for regulatory needs.  
+- 🧮 Developed **DAX-based calculated columns, measures, and time intelligence metrics**, improving report performance and flexibility by **35%**.  
+- 🔍 Implemented **drill-through, drill-down, tooltips, and bookmarks** to create intuitive, multi-level navigation, reducing report navigation time by **40%**.  
+- 🛡️ Leveraged **role-level security (RLS)** to deliver user-specific dashboards segmented by geography, department, and role.  
+- ⏱️ Configured **scheduled data refresh (scheduled increment)** via Power BI Service and gateway, ensuring up-to-date dashboards with **automated hourly/daily refreshes**.  
+- 📦 Integrated **15+ custom visuals from AppSource** (e.g., KPI Indicator, Bullet Chart, Synoptic Panel) to enrich storytelling and data clarity.  
+- 🛠️ Version-controlled all `.pbix`, DAX scripts, and documentation using **Git**, enforcing CI/CD best practices for analytics delivery.  
+- 👨‍🏫 **Mentored 20+ junior analysts** in Power BI and DAX, speeding up onboarding and ensuring knowledge transfer.  
+- 🧵 Shared **50+ Power BI tips and educational posts** on LinkedIn to build community knowledge and thought leadership.  
+- 📂 Published **27+ real-world Power BI projects** on GitHub, covering business analysis, data storytelling, and BI workflows.
+
+
+
 📫 **Let’s Connect**  
 Feel free to reach out or collaborate on data projects!
 
