@@ -38,8 +38,6 @@
 - 👨‍🏫 **Mentored  junior analysts** in Power BI and DAX, speeding up onboarding and ensuring knowledge transfer.  
 - 🧵 Shared **50+ Power BI tips and educational posts** on LinkedIn to build community knowledge and thought leadership.  
 - 📂 Published **27+ real-world Power BI projects** on GitHub, covering business analysis, data storytelling, and BI workflows.
-- ## 🚀 Power BI Project Execution & Administration
-
 - Ingested **multi-source datasets** (**SQL**, **APIs**, **Excel**, **SharePoint**) using **Power Query** in **Power BI**, streamlining data preparation pipelines for **10+ dashboards**.
 - Built efficient **Star Schema Data Models** with **Fact/Dimension tables** in **Power BI**, reducing query latency by **45%** and enhancing **DAX performance**.
 - Performed comprehensive **Data Cleaning** and **Transformation** using **Power Query (M language)**, handling **nulls**, **outliers**, and **type mismatches** across **5M+ rows**.
@@ -52,6 +50,8 @@
 - Leveraged **Power BI AI Features** like **Key Influencers** and **Smart Narratives** to surface hidden trends, enhancing stakeholder understanding of complex KPIs.
 - Enabled **Natural Language Querying** via **Power BI Q&A Visual**, reducing ad-hoc query volume by **30%**.
 - Delivered training sessions on **Power BI Workspace Architecture**, **Dataflows**, and **Deployment Pipelines**, ensuring self-service BI adoption across **7 departments**.
+- Automated **report delivery workflows** using **Power Automate**, sending dynamic **Power BI dashboards** via **Email** and **Microsoft Teams** upon **data refresh** or **KPI threshold breach**, reducing   manual reporting efforts by **80%**.
+
 
 - 
 ---
