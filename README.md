@@ -38,6 +38,21 @@
 - 👨‍🏫 **Mentored  junior analysts** in Power BI and DAX, speeding up onboarding and ensuring knowledge transfer.  
 - 🧵 Shared **50+ Power BI tips and educational posts** on LinkedIn to build community knowledge and thought leadership.  
 - 📂 Published **27+ real-world Power BI projects** on GitHub, covering business analysis, data storytelling, and BI workflows.
+- ## 🚀 Power BI Project Execution & Administration
+
+- Ingested **multi-source datasets** (**SQL**, **APIs**, **Excel**, **SharePoint**) using **Power Query** in **Power BI**, streamlining data preparation pipelines for **10+ dashboards**.
+- Built efficient **Star Schema Data Models** with **Fact/Dimension tables** in **Power BI**, reducing query latency by **45%** and enhancing **DAX performance**.
+- Performed comprehensive **Data Cleaning** and **Transformation** using **Power Query (M language)**, handling **nulls**, **outliers**, and **type mismatches** across **5M+ rows**.
+- Developed and managed **Power BI Dataflows** for centralized data reuse across workspaces, cutting redundant queries by **60%** and enabling scalable data models.
+- Configured **Power BI Gateway** for **Scheduled Data Refreshes** from **on-prem SQL Server**, ensuring **99.9% data availability** across production datasets.
+- Published reports and datasets to **Premium Per User (PPU) Workspaces**
+- Managed **Power BI Apps** to bundle reports, dashboards, and datasets into enterprise-ready packages, simplifying stakeholder delivery for **200+ users**.
+- Defined and maintained **Workspace Roles** (**Admin**, **Member**, **Contributor**, **Viewer**) to enforce **Access Control** and **Data Governance** across analytics projects.
+- Embedded **Power BI Reports** into **Web Applications** using **Power BI Embedded** and **Azure Active Directory (AD)**, providing real-time insights to external clients and partners.
+- Leveraged **Power BI AI Features** like **Key Influencers** and **Smart Narratives** to surface hidden trends, enhancing stakeholder understanding of complex KPIs.
+- Enabled **Natural Language Querying** via **Power BI Q&A Visual**, reducing ad-hoc query volume by **30%**.
+- Delivered training sessions on **Power BI Workspace Architecture**, **Dataflows**, and **Deployment Pipelines**, ensuring self-service BI adoption across **7 departments**.
+
 - 
 ---
 - ## 🛢️ SQL Experience
