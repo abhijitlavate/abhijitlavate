@@ -58,8 +58,27 @@
 - Cleaned, transformed, and analyzed structured data using **Excel Power Query** as part of end-to-end reporting pipelines.
 - Created **interactive Excel dashboards** to track KPIs and provide real-time business performance snapshots.
 - 
-.
+---
+.## 🔍 Data Analysis & Storytelling Skills
 
+As a passionate **Data Analyst**, I bring end-to-end expertise in converting raw data into valuable business insights.
+
+### 🛠️ Core Competencies:
+- **Data Cleaning**: Expertise in handling **missing values**, **nulls**, and **data imputation** using statistical and logical techniques.
+- **Outlier Detection & Treatment**: Identifying anomalies using box plots, Z-scores, and domain logic.
+- **Data Ingestion**: Loading structured/unstructured data from sources like **Excel**, **SQL**, **APIs**, and **CSV files**.
+- **Data Visualization**: Creating impactful dashboards and reports using **Power BI**, **Excel**, and **Matplotlib** to represent trends and comparisons clearly.
+- **Data Storytelling**: Transforming analysis into compelling narratives aligned with business objectives.
+- **Business Understanding**: Deep understanding of **business context**, enabling relevant and actionable insights.
+- **Analytical Acumen**: Strong **problem-solving mindset** supported by statistical reasoning and data exploration.
+- **KPI & KRA Definition**: Collaborating with stakeholders to define **Key Performance Indicators (KPIs)** and **Key Result Areas (KRAs)** that align with strategic goals.
+- **Report Automation**: Automating recurring reports and enabling self-service analytics via dashboards and scheduled refreshes.
+
+### 🎯 Value Delivered:
+- Reduced data noise by 90% through efficient **data preprocessing**.
+- Increased stakeholder clarity by integrating **visual storytelling** with actionable **KPI** tracking.
+
+---
 
 📫 **Let’s Connect**  
 Feel free to reach out or collaborate on data projects!
