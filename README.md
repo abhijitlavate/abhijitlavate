@@ -168,6 +168,20 @@ As a passionate **Data Analyst**, I bring end-to-end expertise in converting raw
 - Documented the entire **Power BI Project Lifecycle** — including **Dataset Lineage**, **DAX Logic**, and **Permissions** — via **Microsoft 365 Planner** and **Teams Wikis**.
 - Managed collaborative editing of **Analytics Specs** and **Delivery Timelines** using **Microsoft 365 Tools** (**Excel**, **Word**, **OneDrive**, **Teams**) for distributed teams.
 - Developed **Data Governance Frameworks** and **Usage Logs** stored in **SharePoint folders**, aligning with **enterprise compliance standards**.
+---
+
+## 🌐 Personal Portfolio & Community Engagement
+
+- Built and improved a **Personal Portfolio Website** from scratch, evolving it from a **static unresponsive layout** to a fully **responsive web design** that scales seamlessly across devices.
+- Developed a **custom-built portfolio site** to showcase **27+ Analytics Projects**, transitioning from basic design to a **professional interface** using **CSS Flexbox/Grid** and **mobile-first principles**.
+
+## 🤝 Extra Achievements & Community Building
+
+- Mentored **20+ junior analysts** in **SQL**, **Power BI**, **Excel**, and **Data Storytelling**, accelerating their onboarding by **60%**.
+- Maintained a **365-day uninterrupted gym streak**, demonstrating strong **self-discipline**, **goal orientation**, and personal commitment.
+- Built and nurtured a **professional network of 1.5K+ Data Analytics professionals** on **LinkedIn** to share insights, collaborate on trends, and stay updated on **BI**, **SQL**, and **Machine Learning advancements**.
+- Authored and shared **50+ educational LinkedIn posts** on **Power BI**, **SQL**, **DAX**, and **Data Storytelling**, empowering aspiring analysts and fostering community growth.
+- Published **27+ real-world data projects** on **GitHub**, covering **Statistical Analysis**, **SQL Optimization**, **Feature Engineering**, and **Power BI Dashboards**, helping learners and professionals understand **enterprise-grade analytics workflows**.
 
 ---
 📫 **Let’s Connect**  
