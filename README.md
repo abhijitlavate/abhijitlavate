@@ -5,6 +5,7 @@
 💼 **Passionate Data Analyst** with hands-on experience in transforming raw data into actionable insights that fuel business success.
 
 ---
+
 ### 🛠️ Tech Stack & Tools
 
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -13,6 +14,9 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Statistics](https://img.shields.io/badge/Statistics-%23f6c915?style=for-the-badge&logo=chartdotjs&logoColor=black)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=keras&logoColor=white)
+
 
 
 I specialize in tools such as **SQL**, **Power BI**, **Excel**, and **Python** for **data cleaning** and **basic scripting**. I have a strong grounding in **Statistics**
