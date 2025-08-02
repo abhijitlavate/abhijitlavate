@@ -80,6 +80,42 @@ As a passionate **Data Analyst**, I bring end-to-end expertise in converting raw
 
 ---
 
+## 🚀 Data Analytics Workflow (End-to-End Execution)
+
+### 🏁 Business Understanding & Initiation
+- Collaborated with **stakeholders** to define **business objectives**.
+- Developed **Business Requirement Documents (BRD)** and **RACI Matrix** to align **scope**, **timelines**, and **success criteria**.
+
+### 📝 Requirement Gathering & Gap Analysis
+- Conducted **requirement workshops** and created **Gap Analysis Documents**.
+- Mapped **current vs. desired business states** through **Data Source Mapping**.
+
+### 🎯 KPI Definition & Metrics Planning
+- Defined and documented **Key Performance Indicators (KPIs)** using detailed **KPI Sheets**.
+- Ensured measurable alignment with **business goals** and success metrics.
+
+### 🧹 Data Collection, Profiling & EDA
+- Performed **Data Profiling Reports** and **Exploratory Data Analysis (EDA)**.
+- Handled **nulls**, **outliers**, and ensured **data consistency** across sources.
+
+### 🔍 Analytics Solution Designing & Problem-Solving Techniques
+- Designed analytical solutions using:
+  - **Root Cause Analysis**
+  - **Hypothesis Testing**
+  - **Predictive Modelling**
+- Documented findings in **Technical Solution Documents (TSD)** and **Solution Blueprints**.
+
+### 🛠️ Solution Development & Deployment
+- Developed **interactive dashboards** and **automated reports** using **Power BI** / **Tableau**.
+- Ensured seamless **deployment** and implemented **KPI monitoring frameworks**.
+
+### 🏁 Handover & Business Adoption
+- Delivered **Final Solution Architecture Documents**.
+- Conducted **user training sessions**.
+- Established **Data Governance Frameworks** for sustainable analytics adoption.
+
+---
+
 📫 **Let’s Connect**  
 Feel free to reach out or collaborate on data projects!
 
