@@ -6,6 +6,7 @@
 
 ---
 
+
 ### 🛠️ Tech Stack & Tools
 
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -16,6 +17,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Statistics](https://img.shields.io/badge/Statistics-%23f6c915?style=for-the-badge&logo=chartdotjs&logoColor=black)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=keras&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+
 
 
 
