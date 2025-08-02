@@ -106,13 +106,12 @@ As a passionate **Data Analyst**, I bring end-to-end expertise in converting raw
 - Documented findings in **Technical Solution Documents (TSD)** and **Solution Blueprints**.
 
 ### 🛠️ Solution Development & Deployment
-- Developed **interactive dashboards** and **automated reports** using **Power BI** / **Tableau**.
+- Developed **interactive dashboards** and **automated reports** using **Power BI** 
 - Ensured seamless **deployment** and implemented **KPI monitoring frameworks**.
 
 ### 🏁 Handover & Business Adoption
 - Delivered **Final Solution Architecture Documents**.
-- Conducted **user training sessions**.
-- Established **Data Governance Frameworks** for sustainable analytics adoption.
+
 
 ---
 
