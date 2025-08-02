@@ -129,10 +129,47 @@ As a passionate **Data Analyst**, I bring end-to-end expertise in converting raw
 
 ### 🏁 Handover & Business Adoption
 - Delivered **Final Solution Architecture Documents**.
+---
+
+
+## 🐍 Python, Pandas & Matplotlib for Data Analytics
+
+- Ingested **multi-source datasets** (**CSV**, **Excel**, **SQL**) using **pandas.read_*** methods, automating **data acquisition workflows** for **10+ analytics projects**.
+- Performed **Data Profiling** using **pandas-profiling** and custom **Python scripts** to assess **nulls**, **data types**, **cardinality**, and **distribution patterns** across **1M+ rows**.
+- Cleaned **raw datasets** by handling **missing values** (`fillna`, `dropna`), **outliers** (IQR, Z-score), and inconsistent formats, improving **data quality scores** by **35%**.
+- Engineered **reusable Python functions** for **data cleaning pipelines**, reducing manual preprocessing time by **50%** in **Customer Segmentation Projects**.
+- Conducted **Exploratory Data Analysis (EDA)** using **Pandas** and **Matplotlib**, identifying **trends**, **anomalies**, and **correlations** in **Sales and Marketing Data**.
+
+---
+## 📋 Agile Project Management (Jira)
+
+- Managed **50+ Data Analytics Tasks and Epics** in **Jira**, aligning **Sprint Goals** with **reporting deliverables** and tracking issue resolution through **Agile Workflows**.
+- Created and prioritized **User Stories** and **Technical Tickets** in **Jira** to capture requirements for **Power BI Dashboards**, **SQL Pipelines**, and **Data Quality Improvements**.
+- Coordinated **bi-weekly Sprints** in **Jira**, ensuring on-time delivery of **analytics features** and managing **Backlog Refinement** with **cross-functional stakeholders**.
+- Tracked and resolved **Data Pipeline Bugs** and **Enhancements** using **Jira Issue Types** (*Story*, *Bug*, *Task*), improving development **transparency** and **accountability**.
+- Documented **Acceptance Criteria**, **Dependencies**, and **Progress Updates** in **Jira** to maintain clear communication across **Data Engineering** and **Business Teams**.
+- Used **Jira Dashboards** and **Filters** to monitor **Sprint Velocity**, **Ticket Aging**, and **Blocker Status**, supporting agile delivery of **20+ BI and Analytics Projects**.
+---
+## 🗂️ Git Version Control for Data Analytics Projects
+
+- Used **git clone** to replicate enterprise **Power BI** and **SQL codebases** across development environments, ensuring **version consistency** and speeding up **onboarding**.
+- Regularly performed **git pull** and **git push** to sync **analytical models**, **DAX code**, and **Power Query scripts** across team branches, reducing **deployment friction**.
+- Managed collaborative report development by executing safe **git merge operations** for **Power BI projects**, resolving **merge conflicts** across **feature branches**.
+- Established a **Git-based version control workflow** for **BI reports** and **SQL procedures**, improving **traceability** and **rollback** during **dataset updates**.
+- Implemented **Git commit tagging** and **branching strategies** to manage **Staging vs Production Dashboards**, streamlining **CI/CD pipelines** in the analytics workflow.
 
 
 ---
 
+## 🗒️ Documentation & Data Governance
+
+- Created comprehensive **BRD (Business Requirement Documents)**, **FRD (Functional Requirement Documents)**, and **Data Dictionaries** using **Microsoft Word** and **OneNote**, standardizing analytics documentation across **8+ projects**.
+- Maintained **reporting metadata**, **KPI definitions**, and **refresh schedules** in **SharePoint** and **Excel**, ensuring **version control** and **audit readiness**.
+- Documented the entire **Power BI Project Lifecycle** — including **Dataset Lineage**, **DAX Logic**, and **Permissions** — via **Microsoft 365 Planner** and **Teams Wikis**.
+- Managed collaborative editing of **Analytics Specs** and **Delivery Timelines** using **Microsoft 365 Tools** (**Excel**, **Word**, **OneDrive**, **Teams**) for distributed teams.
+- Developed **Data Governance Frameworks** and **Usage Logs** stored in **SharePoint folders**, aligning with **enterprise compliance standards**.
+
+---
 📫 **Let’s Connect**  
 Feel free to reach out or collaborate on data projects!
 
