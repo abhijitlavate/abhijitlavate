@@ -4,7 +4,7 @@
 
 💼 **Passionate Data Analyst** with hands-on experience in transforming raw data into actionable insights that fuel business success.
 
-## 👋 About Me
+
 
 I specialize in tools such as **SQL**, **Power BI**, **Excel**, and **Python** for **data cleaning** and **basic scripting**. I have a strong grounding in **Statistics**
 
