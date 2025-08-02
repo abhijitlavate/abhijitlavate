@@ -177,7 +177,7 @@ As a passionate **Data Analyst**, I bring end-to-end expertise in converting raw
 
 ## 🤝 Extra Achievements & Community Building
 
-- Mentored **20+ junior analysts** in **SQL**, **Power BI**, **Excel**, and **Data Storytelling**, accelerating their onboarding by **60%**.
+- Mentored **junior analysts** in **SQL**, **Power BI**, **Excel**, and **Data Storytelling**, accelerating their onboarding by **60%**.
 - Maintained a **365-day uninterrupted gym streak**, demonstrating strong **self-discipline**, **goal orientation**, and personal commitment.
 - Built and nurtured a **professional network of 1.5K+ Data Analytics professionals** on **LinkedIn** to share insights, collaborate on trends, and stay updated on **BI**, **SQL**, and **Machine Learning advancements**.
 - Authored and shared **50+ educational LinkedIn posts** on **Power BI**, **SQL**, **DAX**, and **Data Storytelling**, empowering aspiring analysts and fostering community growth.
