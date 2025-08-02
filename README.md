@@ -59,7 +59,7 @@
 - Created **interactive Excel dashboards** to track KPIs and provide real-time business performance snapshots.
 - 
 ---
-.## 🔍 Data Analysis & Storytelling Skills
+## 🔍 Data Analysis & Storytelling Skills
 
 As a passionate **Data Analyst**, I bring end-to-end expertise in converting raw data into valuable business insights.
 
