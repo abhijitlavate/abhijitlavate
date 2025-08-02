@@ -27,7 +27,7 @@
 
 ## 🚀 Power BI Expertise & Contributions
 
-- 📊 **Designed and deployed over 27 interactive dashboards** using Power BI Desktop & Service, transforming raw data into executive-level business insights across marketing, logistics, and finance.  
+- 📊 **Designed and deployed many interactive dashboards** using Power BI Desktop & Service, transforming raw data into executive-level business insights across marketing, logistics, and finance.  
 - 📑 Created **Paginated Reports using Power BI Report Builder**, enabling pixel-perfect print-ready outputs for regulatory needs.  
 - 🧮 Developed **DAX-based calculated columns, measures, and time intelligence metrics**, improving report performance and flexibility by **35%**.  
 - 🔍 Implemented **drill-through, drill-down, tooltips, and bookmarks** to create intuitive, multi-level navigation, reducing report navigation time by **40%**.  
