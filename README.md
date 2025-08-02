@@ -4,6 +4,21 @@
 
 💼 **Passionate Data Analyst** with hands-on experience in transforming raw data into actionable insights that fuel business success.
 
+## 👋 About Me
+
+I specialize in tools such as **SQL**, **Power BI**, **Excel**, and **Python** for **data cleaning** and **basic scripting**. I have a strong grounding in **Statistics**
+
+In **SQL**, I write **optimized complex queries** and also use **SSIS** and **SQL Server Agent** for **ETL workflows** and **automation**. For **Data Visualization**, I design impactful **Dashboards** and **Reports** using **Power BI**, including **Paginated Reports**, **Power BI Service**, and **Report Server**, ensuring alignment with **Key Business Metrics**.
+
+I also have hands-on experience creating **Entity Relationship Diagrams (ERDs)** using **Lucidchart** to model and design **Relational Databases**, streamlining communication with **Engineering Teams** and improving **Data Architecture Planning**. This has been particularly useful during **Data Migration** and **Multiple Data Source Integration** projects.
+
+For collaboration and workflow management, I utilize **Jira** for **Agile Sprint Planning** and **Progress Tracking**. Additionally, I use **Git** for **Version Control** of **SQL Scripts**, **Python Notebooks**, and **Power BI Assets**, ensuring consistency and reproducibility across projects.
+
+I actively stay updated with the latest advancements in **Analytics**, including new **Power BI Features**, **Statistical Modeling Approaches**, and **Best Practices in Visual Storytelling**.
+
+Looking ahead, I am seeking opportunities where I can take on **larger-scale data challenges**, **lead data design efforts**, and deliver **measurable business value** through **Analytics**, **Statistics**, and **Thoughtful Data Modeling**. I am particularly excited about roles that **bridge business strategy and data-driven insights**.
+
+
 ---
 
 ## 🧰 Technical Skills
