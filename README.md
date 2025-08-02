@@ -65,6 +65,9 @@
 - Built reusable **Stored Procedures** and **CRUD operations** to manage **application databases**, increasing **system reliability**.  
 - **Mentored  junior analysts** in **SQL best practices** and **query optimization techniques**.  
 - Published **27+ real-world SQL projects** on **GitHub**, covering **query design**, **indexing strategies**, and **enterprise-scale performance tuning**.
+- Conducted **Data Profiling** in **SQL** using **aggregate queries**, **COUNT**, **NULLIF**, and **GROUP BY** to assess **nulls**, **uniqueness**, **cardinality**, and detect **distribution anomalies**.
+- Cleaned and validated **raw data** using **SQL CASE**, **COALESCE**, **TRIM**, **ISNUMERIC**, and **outlier detection logic**, improving **data quality scores** by **30%**.
+
 - ---
 ## 📊 Excel Experience
 
