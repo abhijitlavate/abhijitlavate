@@ -202,6 +202,34 @@ As a passionate **Data Analyst**, I bring end-to-end expertise in converting raw
 - Developed **Data Governance Frameworks** and **Usage Logs** stored in **SharePoint folders**, aligning with **enterprise compliance standards**.
 ---
 
+## 🏢 Data Warehouse (DWH) – 
+
+- Gained hands-on experience with **Data Warehouse concepts** including **Fact/Dimension Tables**, **Star Schema**, and **Snowflake Schema** to support **Analytical Queries**.
+- Understood the fundamentals of **ETL/ELT workflows** and their role in populating **Data Warehouses** from diverse **Source Systems**.
+- Assisted in building **Reporting-ready Data Models** using **Dimensional Modeling Techniques** to ensure **Scalable** and **Consistent Analytics**.
+- Familiar with **Data Warehouse Architecture Layers** — **Staging**, **Integration**, and **Presentation** — for structured **Data Flow** in analytics projects.
+
+---
+## ☁️ Azure Data Factory (ADF) – 
+
+- Built **Data Pipelines** in **Azure Data Factory (ADF)** to move and transform data from **On-Premise SQL** to **Azure Blob Storage** and **Synapse Environments**.
+- Used **Copy Activity**, **Data Flows**, and **Linked Services** in ADF to design **Simple ETL Pipelines** for **Data Ingestion** and **Transformation**.
+- Scheduled **Data Refresh Tasks** using **ADF Triggers** and **Monitoring**, ensuring timely availability of datasets for reporting.
+- Gained exposure to **Parameterized Pipelines** in ADF, promoting **Reusability** and **Dynamic Data Integration**.
+
+---
+## 🤖 Machine Learning (ML) – 
+
+- Familiar with **Supervised** and **Unsupervised Learning Algorithms**, including **Regression**, **Classification**, and **Clustering** for **Data-driven Predictions** and **Pattern Discovery**.
+- Gained practical exposure to **ML Workflows** — **Data Preparation**, **Feature Engineering**, **Model Training**, and **Evaluation** — using **Python** and **Scikit-learn**.
+- Implemented **Basic Linear Regression** and **Decision Tree Models** on structured datasets to explore **Variable Relationships** and **Forecasting**.
+- Used **Train/Test Split**, **Cross-validation**, and **Accuracy Metrics** (RMSE, Precision, Recall) to assess and compare **Model Performance**.
+- Applied **Pandas** and **Scikit-learn Pipelines** to streamline preprocessing steps like **Encoding**, **Scaling**, and **Missing Value Imputation**.
+- Developed **EDA Plots** using **Matplotlib** and **Seaborn** to visualize **Trends**, **Correlations**, and **Outliers** before modeling.
+- Built beginner-level **Classification Models** (Logistic Regression, k-NN) for **Binary Prediction Problems** using **Labeled Datasets**.
+- Understood the basics of **Overfitting**, **Underfitting**, and **Model Generalization**, and applied techniques like **Regularization** and **Validation Sets**.
+---
+
 ## 🌐 Personal Portfolio & Community Engagement
 
 - Built and improved a **Personal Portfolio Website** from scratch, evolving it from a **static unresponsive layout** to a fully **responsive web design** that scales seamlessly across devices.
