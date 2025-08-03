@@ -18,7 +18,8 @@
 ![Statistics](https://img.shields.io/badge/Statistics-%23f6c915?style=for-the-badge&logo=chartdotjs&logoColor=black)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=keras&logoColor=white)
 ![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
-
+![Data Warehouse](https://img.shields.io/badge/Data%20Warehouse-4B8BBE?style=for-the-badge&logo=databricks&logoColor=white)
+![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 
 
